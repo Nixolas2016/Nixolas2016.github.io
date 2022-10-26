@@ -1,0 +1,92 @@
+[
+    {
+    "id":1,
+    "nombre":"Among Us",
+    "precio":68,
+    "desarrollador":"Innersloth",
+    "cantidad":10,
+    "etiquetas":"Multijugador, Cooperativos en línea, Espacio, 2D.",
+    "img":"/img/among-us.jpg"
+    },
+    {
+    "id":2,
+    "nombre":"PAYDAY 2",
+    "precio":150,
+    "desarrollador":"OVERKILL-a Starbreeze Studio",
+    "cantidad":10,
+    "etiquetas":"Cooperativos, Acción, FPS, Robos, Sigilo.",
+    "img":"/img/payday-2.jpg"
+    },
+    {
+    "id":3,
+    "nombre":"Fallout 4",
+    "precio":800,
+    "desarrollador":"Bethesda Game Studios",
+    "cantidad":10,
+    "etiquetas":"Mundo abierto, Posapocalípticos, Exploración, Rol.",
+    "img":"/img/fallout-4.jpg"
+    },
+    {
+    "id":4,
+    "nombre":"Mafia: Edición Definitiva",
+    "precio":2560,
+    "desarrollador":"Hangar 13",
+    "cantidad":10,
+    "etiquetas":"Acción, Mundo abierto, Crímenes, Buena trama.",
+    "img":"/img/mafia-edición-definitiva.jpg"
+    },
+    {
+    "id":5,
+    "nombre":"Grand Theft Auto V",
+    "precio":314,
+    "desarrollador":"Rockstar North",
+    "cantidad":10,
+    "etiquetas":"Mundo abierto, Acción, Multijugador, Crímenes.",
+    "img":"/img/grand-theft-auto-v.jpg"
+    },
+    {
+    "id":6,
+    "nombre":"Dead by Daylight",
+    "precio":1000,
+    "desarrollador":"Behaviour Interactive Inc.",
+    "cantidad":10,
+    "etiquetas":"Terror, Supervivencia terrorífica, Multijugador.",
+    "img":"/img/dead-by-daylight.jpg"
+    },
+    {
+    "id":7,
+    "nombre":"Cyberpunk 2077",
+    "precio":2200,
+    "desarrollador":"CD PROJEKT RED",
+    "cantidad":10,
+    "etiquetas":"Primera persona, Mundo abierto, Rol, Un jugador.",
+    "img":"/img/cyberpunk-2077.jpg"
+    },
+    {
+    "id":8,
+    "nombre":"EA SPORTS™ FIFA 23",
+    "precio":9000,
+    "desarrollador":"EA Canada & EA Romania",
+    "cantidad":10,
+    "etiquetas":"Deportes, Fútbol, Simulador inmersivo, Gestión.",
+    "img":"/img/fifa-23.jpg"
+    },
+    {
+    "id":9,
+    "nombre":"Red Dead Redemption 2",
+    "precio":3900,
+    "desarrollador":"Rockstar Games",
+    "cantidad":10,
+    "etiquetas":"Mundo abierto, Buena trama, Aventura, Vaqueros.",
+    "img":"/img/red-dead-redemption-2.jpg"
+    },
+    {
+    "id":10,
+    "nombre":"Tom Clancy's Rainbow Six® Siege",
+    "precio":1000,
+    "desarrollador":"Ubisoft Montreal",
+    "cantidad":10,
+    "etiquetas":"FPS, Disparos de héroe, Multijugador, Tácticos.",
+    "img":"/img/tom-clancy's-rainbow-six-siege.jpg"
+    }
+]

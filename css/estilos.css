@@ -1,0 +1,130 @@
+/* Fuente utilizada */
+@import url('https://fonts.googleapis.com/css2?family=Saira&display=swap');
+
+/* Estilos aplicados */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Saira', sans-serif;
+}
+
+body {
+    background-color: rgb(35, 37, 39);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+section {
+    width: 90%;
+}
+
+.precio {
+    color: rgb(38, 204, 23);
+}
+
+.etiquetas {
+    color: #5898f8;
+}
+
+.formulario {
+    width: 40%;
+    padding: 100px 70px 100px 70px;
+    margin: 150px auto 150px 600px;
+    background-color: rgb(211, 206, 206);
+    border-radius: 5px;
+}
+
+.confirmar {
+    width: 40%;
+    padding: 100px 70px 100px 70px;
+    margin: 150px auto 150px 600px;
+    background-color: rgb(211, 206, 206);
+    border-radius: 5px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: brown;
+    color: white;
+    
+}
+
+.nav-link{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#seccion-productos {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin: 90px auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.grid-carrito {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 40px;
+    padding: 100px 50px 100px 90px;
+    margin: auto;
+}
+
+#carrito {
+    grid-column: 2/5;
+    padding: 200px 0px 361px 0px;
+}
+
+#resumen {
+    grid-column: 5/6;
+}
+
+.producto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+
+.btn {
+    background-color: #20af38;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.producto-carrito {
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px 20px;
+    border: 2px solid brown;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.producto-carrito img {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
